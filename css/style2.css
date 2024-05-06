@@ -1,0 +1,35 @@
+div
+{
+    border: 1px solid black;
+}
+
+.aref
+{
+    position:relative;
+    LEFT: 130PX;
+
+}
+.aref1
+{
+    position: relative;
+    left: 612px;
+}
+
+.btnx1
+{
+width:150px;
+height:39px;
+border-radius: 25px;
+border: none;
+position:relative;
+TOP:0;
+LEFT: 1000PX;
+background-color:#2a51ce;
+color:rgb(255, 255, 255);
+}
+
+.aref2
+{
+    position: relative;
+    margin-left: 130px;
+}
